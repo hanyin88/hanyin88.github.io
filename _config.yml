@@ -3,23 +3,21 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+first_name: Hanyin
+middle_name: 
+last_name: Wang
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Feel free to reach out for collaborations or discussions about LLMs in healthcare.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Co-Director of AI Validation and Stewardship at Mayo Clinic Health System and Computer Science PhD Student at UIUC, specializing in Large Language Models for Healthcare.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: machine learning, healthcare AI, large language models, clinical NLP, medical informatics # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ⚕️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://alshedivat.github.io # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
+url: https://why217.github.io # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -46,17 +44,45 @@ repo_trophies:
 # Layout
 # -----------------------------------------------------------------------------
 
-navbar_fixed: true
-footer_fixed: true
-search_enabled: true
-socials_in_search: true
-posts_in_search: true
-bib_search: true
+# navbar_fixed: true
+# footer_fixed: true
+# search_enabled: true
+# socials_in_search: true
+# posts_in_search: true
+# bib_search: true
 
 # Dimensions
 max_width: 930px
 
 # TODO: add layout settings (single page vs. multi-page)
+
+# For best results, don't order memory and CPU units in descending order.
+# It's okay to have a mix of units (e.g. GB and MB) in the same field.
+# navbar_highlight_on_scroll: true # If true, the navbar items will be highlighted when the user scrolls to the corresponding section. This feature is useful for one-page websites. Otherwise, the navbar items will be highlighted when the user clicks on them.
+navbar_highlight_on_scroll: false
+navbar_show_title: true # If true, the website title will be displayed in the navbar.
+navbar_pages:
+  - name: About
+    permalink: /
+  - name: Publications
+    permalink: /publications/
+
+navbar_dropdown:
+  enabled: false
+  # name: more
+  # children:
+    # - name: Blog
+      # permalink: /blog/
+    # - name: Projects
+      # permalink: /projects/
+    # - name: Repositories
+      # permalink: /repositories/
+    # - name: Submenu
+      # children:
+        # - name: Dropdown Item
+          # permalink: /dropdown/
+        # - name: Cool feature
+          # permalink: /cool-feature/
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
@@ -263,8 +289,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Wang]
+  first_name: [Hanyin, H.]
 
   style: apa
   locale: en
@@ -381,14 +407,14 @@ enable_pirsch_analytics: false # enables Pirsch analytics (https://pirsch.io/)
 enable_openpanel_analytics: false # enables Openpanel analytics (https://openpanel.dev/)
 enable_google_verification: false # enables google site verification
 enable_bing_verification: false # enables bing site verification
-enable_masonry: true # enables automatic project cards arrangement
+enable_masonry: false # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: true # enables switching between light/dark modes
 enable_navbar_social: false # enables displaying social links in the navbar on the about page
-enable_project_categories: true # enables categorization of projects into multiple categories
-enable_medium_zoom: true # enables image zoom feature (as on medium.com)
-enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
+enable_project_categories: false # enables categorization of projects into multiple categories
+enable_medium_zoom: false # enables image zoom feature (as on medium.com)
+enable_progressbar: false # enables a horizontal progress bar linked to the vertical scroll position
 enable_video_embedding: false # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.
 
 # -----------------------------------------------------------------------------
