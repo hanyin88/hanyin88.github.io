@@ -13,7 +13,7 @@ profile:
     <p>University of Illinois Urbana-Champaign</p>
     <p>Computer Science Department</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # disabled since jekyll-scholar is not supported on GitHub Pages
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -35,6 +35,6 @@ I am a Co-Director of AI Validation and Stewardship at Mayo Clinic Health System
 
 I am passionate about bridging the gap between cutting-edge AI research and practical clinical applications, ensuring that AI systems are both effective and safe for patient care.
 
-### Selected Publications & Preprints ([Google Scholar](https://scholar.google.com/citations?user=JJPe5XcAAAAJ&hl=en))
+### Recent Work
 
-[Publications will be automatically listed from the bibliography]
+My research has been published in top-tier venues including **npj Digital Medicine**, **Infection Control & Hospital Epidemiology**, and **American Journal of Infection Control**. For a complete list of publications, please visit my [Publications](/publications/) page or [Google Scholar profile](https://scholar.google.com/citations?user=JJPe5XcAAAAJ&hl=en).
