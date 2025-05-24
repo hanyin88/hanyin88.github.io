@@ -2,16 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: Co-Director of AI Validation and Stewardship at Mayo Clinic Health System · Computer Science PhD Student at UIUC
 
 profile:
   align: right
-  image: 
+  image: prof_pic.jpg
   image_circular: false
-  more_info: 
+  more_info: >
+    <p>Mayo Clinic Health System</p>
+    <p>University of Illinois Urbana-Champaign</p>
+    <p>wang.hanyin@mayo.edu</p>
 
 selected_papers: false
-social: false
+social: true
 
 announcements:
   enabled: false
@@ -23,10 +26,6 @@ latest_posts:
   scrollable: true
   limit: 3
 ---
-
-# Hanyin Wang
-
-* wang.hanyin@mayo.edu
 
 I am a Co-Director of AI Validation and Stewardship at Mayo Clinic Health System and a Computer Science PhD candidate at the University of Illinois Urbana-Champaign. I am fortunate to be advised by Prof. Jimeng Sun. Before this, I received my MD degree and completed my residency training in Internal Medicine.
 
