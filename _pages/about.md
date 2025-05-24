@@ -2,16 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: Co-Director of AI Validation and Stewardship at Mayo Clinic Health System · Computer Science PhD Student at UIUC
+subtitle: Internal Medicine Physician · Computer Science PhD Student at UIUC
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: >
-    <p>Mayo Clinic Health System</p>
-    <p>University of Illinois Urbana-Champaign</p>
-    <p>wang.hanyin@mayo.edu</p>
 
 selected_papers: false
 social: true
@@ -27,11 +23,9 @@ latest_posts:
   limit: 3
 ---
 
-I am a Co-Director of AI Validation and Stewardship at Mayo Clinic Health System and a Computer Science PhD candidate at the University of Illinois Urbana-Champaign. I am fortunate to be advised by Prof. Jimeng Sun. Before this, I received my MD degree and completed my residency training in Internal Medicine.
+I am an Internal Medicine Physician at Mayo Clinic Health System and a Computer Science PhD candidate at the University of Illinois Urbana-Champaign. I am fortunate to be advised by Prof. Jimeng Sun. Before this, I received my MD degree and completed my residency training in Internal Medicine.
 
-**[Research]** My research focuses on developing and validating Large Language Models for healthcare applications. The core of my work involves addressing various challenges in clinical AI, including model safety, reliability, and practical deployment in healthcare settings.
-
-**[Application]** I co-lead the development of healthcare-focused LLMs and have published work on DRG prediction, clinical note generation, and AI validation in healthcare. My recent work includes **DRG-LLaMA**, a specialized model for predicting diagnosis-related groups in hospitalized patients, which has been published in npj Digital Medicine.
+I am passionate about developing and validating Large Language Models for healthcare applications, with a focus on addressing real-world clinical challenges through innovations in clinical note generation and reinforcement learning approaches. I am also actively exploring startup opportunities to translate these research advances into practical healthcare solutions.
 
 ### Selected Publications & Preprints ([Google Scholar](https://scholar.google.com/citations?user=JJPe5XcAAAAJ&hl=en))
 
@@ -77,13 +71,12 @@ I am a Co-Director of AI Validation and Stewardship at Mayo Clinic Health System
 
 _An asterisk (\*) denotes equal contribution, and a dagger (†) denotes co-corresponding authorship._
 
-
 ### Clinical Experience
 
 * **Mayo Clinic Health System**, Mankato, MN, USA  
   Co-Director - AI Validation and Stewardship Program (2024 - Present)  
   Associate Chief Medical Information Officer (2023 - Present)  
-  Chair - Department of Hospital Internal Medicine (2021 - 2024)
+  Chair - Department of Hospital Internal Medicine (2021 - 2024)  
   Hospitalist Physician (2018 - Present)
 
 * **Tufts Medical Center**, Boston, MA, USA  
