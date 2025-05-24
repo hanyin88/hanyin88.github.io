@@ -35,6 +35,57 @@ I am a Co-Director of AI Validation and Stewardship at Mayo Clinic Health System
 
 I am passionate about bridging the gap between cutting-edge AI research and practical clinical applications, ensuring that AI systems are both effective and safe for patient care.
 
-### Recent Work
+### Selected Publications & Preprints ([Google Scholar](https://scholar.google.com/citations?user=JJPe5XcAAAAJ&hl=en))
 
-My research has been published in top-tier venues including **npj Digital Medicine**, **Infection Control & Hospital Epidemiology**, and **American Journal of Infection Control**. For a complete list of publications, please visit my [Publications](/publications/) page or [Google Scholar profile](https://scholar.google.com/citations?user=JJPe5XcAAAAJ&hl=en).
+* **DRG-LLaMA: tuning LLaMA model to predict diagnosis-related group for hospitalized patients**  
+  *npj Digital Medicine* 2024  
+  Hanyin Wang, Chufan Gao, Christopher Dantona, Bryan Hull, Jimeng Sun  
+  [[paper]](https://www.nature.com/articles/s41746-023-00989-3)
+
+* **Towards Adapting Open-Source Large Language Models for Expert-Level Clinical Note Generation**  
+  *arXiv preprint* 2024  
+  Hanyin Wang, Chufan Gao, Bolun Liu, Jimeng Sun  
+  [[paper]](https://arxiv.org/abs/2402.08066)
+
+* **A perspective for adapting generalist ai to specialized medical ai applications and their challenges**  
+  *Under Review* 2024  
+  Hanyin Wang, et al.
+
+* **A Reflection and Outlook on Clinical Adaption of Large Language Models**  
+  *Under Review* 2024  
+  Hanyin Wang, et al.
+
+* **Process-Supervised Reward Models for Clinical Note Generation: A Scalable Approach Guided by Domain Expertise**  
+  *Under Review* 2024  
+  Hanyin Wang, et al.
+
+* **Development and validation of a machine learning algorithm for predicting the risk of institutional healthcare-associated Clostridioides difficile infection**  
+  *Infection Control & Hospital Epidemiology* 2024  
+  Hanyin Wang, Nasia Safdar, et al.  
+  [[paper]](https://doi.org/10.1017/ice.2023.259)
+
+* **Using machine learning algorithms to predict healthcare-associated Clostridioides difficile infection**  
+  *American Journal of Infection Control* 2024  
+  Hanyin Wang, Nasia Safdar, et al.  
+  [[paper]](https://doi.org/10.1016/j.ajic.2023.11.015)
+
+* **Clonal dynamics of Richter transformation in chronic lymphocytic leukemia**  
+  *Nature Communications* 2022  
+  Hanyin Wang, et al.  
+  [[paper]](https://www.nature.com/articles/s41467-022-29062-z)
+
+* **Differential transcriptomic profiling in ibrutinib‐naïve versus ibrutinib‐resistant Richter syndrome**  
+  *British Journal of Haematology* 2021  
+  Hanyin Wang, et al.  
+  [[paper]](https://onlinelibrary.wiley.com/doi/10.1111/bjh.17364)
+
+* **Unexpected BP sensitivity to angiotensin II in a patient with coronavirus disease 2019, ARDS, and septic shock**  
+  *Critical Care Medicine* 2021  
+  Hanyin Wang, et al.  
+  [[paper]](https://journals.lww.com/ccmjournal/Citation/2021/04000/Unexpected_BP_Sensitivity_to_Angiotensin_II_in_a.31.aspx)
+
+_An asterisk (*) denotes equal contribution, and a dagger (†) denotes co-corresponding authorship._
+
+---
+
+Feel free to reach out for collaborations or discussions about LLMs in healthcare.

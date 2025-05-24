@@ -64,8 +64,6 @@ navbar_show_title: true # If true, the website title will be displayed in the na
 navbar_pages:
   - name: About
     permalink: /
-  - name: Publications
-    permalink: /publications/
 
 navbar_dropdown:
   enabled: false
