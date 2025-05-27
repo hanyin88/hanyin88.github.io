@@ -47,29 +47,28 @@ I am passionate about developing large language models for healthcare applicatio
 - **DRG-LLaMA: tuning LLaMA model to predict diagnosis-related group for hospitalized patients**  
   <u>npj Digital Medicine 2024</u>  
   **Hanyin Wang**, Chufan Gao, Christopher Dantona, Bryan Hull, Jimeng Sun  
-  \[[paper](https://www.nature.com/articles/s41746-023-00952-2)\]
+  \[[paper](https://www.nature.com/articles/s41746-023-00989-3)\]
 
 - **A Reflection and Outlook on Clinical Adaption of Large Language Models**  
   <u>AAAI 2024 Spring Symposium on Clinical Foundation Models</u>  
   **Hanyin Wang**, Chufan Gao, Jimeng Sun  
-  \[[paper](https://arxiv.org/abs/2402.13225)\]
+  \[[paper](https://openreview.net/forum?id=Xpt9xzmWhg)\]
 
 - **Clonal dynamics of Richter transformation in chronic lymphocytic leukemia**  
   <u>Hematological oncology 2024</u>  
   **Hanyin Wang**, Shulan Tian, Charla R Secreto, Sutapa Sinha, Min Shi, Timothy Call, Yucai Wang, Sameer A Parikh, Saad S Kenderian, Rong He, et al.  
-  \[[paper](https://onlinelibrary.wiley.com/doi/10.1002/hon.3196)\]
+  \[[paper](https://onlinelibrary.wiley.com/doi/10.1002/hon.3282)\]
 
 - **Differential transcriptomic profiling in ibrutinib-naïve versus ibrutinib-resistant Richter syndrome**  
   <u>Hematological Oncology 2022</u>  
   **Hanyin Wang**, Shulan Tian, Qing Zhao, Wendy Blumenschein, Jennifer H Yearley, Charla R Secreto, Sutapa Sinha, Timothy G Call, Yucai Wang, Sameer A Parikh, et al.  
-  \[[paper](https://onlinelibrary.wiley.com/doi/10.1002/hon.2998)\]
+  \[[paper](https://onlinelibrary.wiley.com/doi/10.1002/hon.2950)\]
 
 - **Unexpected BP sensitivity to angiotensin II in a patient with coronavirus disease 2019, ARDS, and septic shock**  
   <u>Chest 2020</u>  
   **Hanyin Wang**, Subhraleena Das, Patrick M Wieruszewski, Jamil Taji, Brian Bartlett, Nabila Azad, Arnab Chowdhury, Gururaj J Kolar, Nitesh Jain, Mir R Subla, et al.  
-  \[[paper](<https://journal.chestnet.org/article/S0012-3692(20)31610-3/fulltext>)\]
+  \[[paper](<https://journal.chestnet.org/article/S0012-3692(20)30747-9/fulltext>)\]
 
-_An asterisk (\*) denotes equal contribution, and a dagger (†) denotes co-corresponding authorship._
 
 ### Clinical Experience
 
