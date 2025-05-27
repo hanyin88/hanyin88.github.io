@@ -61,9 +61,9 @@ max_width: 930px
 # navbar_highlight_on_scroll: true # If true, the navbar items will be highlighted when the user scrolls to the corresponding section. This feature is useful for one-page websites. Otherwise, the navbar items will be highlighted when the user clicks on them.
 navbar_highlight_on_scroll: false
 navbar_show_title: true # If true, the website title will be displayed in the navbar.
-navbar_pages:
-  - name: About
-    permalink: /
+# navbar_pages:
+#   - name: About
+#     permalink: /
 
 navbar_dropdown:
   enabled: false
