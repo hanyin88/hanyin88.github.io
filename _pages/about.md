@@ -23,7 +23,7 @@ latest_posts:
   limit: 3
 ---
 
-I am an Internal Medicine Physician at Mayo Clinic Health System and a Computer Science PhD candidate at the University of Illinois Urbana-Champaign. I am fortunate to be advised by Prof. Jimeng Sun. Before this, I received my MD degree and completed my residency training in Internal Medicine.
+I am an Internal Medicine Physician at Mayo Clinic Health System and a Computer Science PhD student at the University of Illinois Urbana-Champaign. I am fortunate to be advised by Prof. Jimeng Sun. Before this, I received my MD degree and completed my residency training in Internal Medicine.
 
 I am passionate about developing large language models for healthcare applications, with a focus on addressing real-world clinical challenges that have measurable impact. My particular interests include clinical note generation and reinforcement learning. Additionally, I am actively exploring startup opportunities to translate these research advancements into practical healthcare solutions.
 
@@ -40,7 +40,7 @@ I am passionate about developing large language models for healthcare applicatio
   \[[paper](https://arxiv.org/abs/2412.12583)\]
 
 - **A perspective for adapting generalist ai to specialized medical ai applications and their challenges**  
-  <u>arXiv preprint arXiv:2411.00024</u>  
+  <u>npj Digital Medicine 2025</u>  
   Zifeng Wang, **Hanyin Wang**, Benjamin Danek, Ying Li, Christina Mack, Hoifung Poon, Yajun Wang, Pranav Rajpurkar, Jimeng Sun  
   \[[paper](https://arxiv.org/abs/2411.00024)\]
 
