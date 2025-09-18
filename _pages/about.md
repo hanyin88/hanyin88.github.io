@@ -29,8 +29,13 @@ I am passionate about developing large language models for healthcare applicatio
 
 ### Selected Publications & Preprints ([Google Scholar](https://scholar.google.com/citations?user=JJPe5XcAAAAJ&hl=en))
 
+- **Reinforcement Learning for Out-of-Distribution Reasoning in LLMs: An Empirical Study on Diagnosis-Related Group Coding**  
+  <u>NeurIPS 2025 (Spotlight)</u>  
+  **Hanyin Wang**, Zhenbang Wu, Gururaj Kolar, Hariprasad Korsapati, Brian Bartlett, Bryan Hull, Jimeng Sun  
+  \[[paper](https://arxiv.org/abs/2505.21908)\]
+
 - **Process-Supervised Reward Models for Clinical Note Generation: A Scalable Approach Guided by Domain Expertise**  
-  <u>arXiv preprint arXiv:2412.12583</u>  
+  <u>EMNLP 2025 Main Conference</u>  
   **Hanyin Wang**, Qiping Xu, Bolun Liu, Guleid Hussein, Hariprasad Korsapati, Mohamad El Labban, Kingsley Iheasirim, Mohamed Hassan, Gokhan Anil, Brian Bartlett, et al.  
   \[[paper](https://arxiv.org/abs/2412.12583)\]
 
