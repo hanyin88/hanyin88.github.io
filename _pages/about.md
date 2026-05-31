@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Internal Medicine Physician · Computer Science PhD Student at UIUC
+subtitle: Building Moku Health · Computer Science PhD Candidate at UIUC
 
 profile:
   align: right
@@ -23,7 +23,7 @@ latest_posts:
   limit: 3
 ---
 
-I am an Internal Medicine Physician at Mayo Clinic Health System and a Computer Science PhD student at the University of Illinois Urbana-Champaign. I am fortunate to be advised by Prof. Jimeng Sun. Before this, I received my MD degree and completed my residency training in Internal Medicine.
+I am an Internal Medicine Physician, previously at Mayo Clinic Health System, currently building [Moku Health](https://mokuhealth.ai/). I am also a Computer Science PhD candidate at the University of Illinois Urbana-Champaign. I am fortunate to be advised by Prof. Jimeng Sun. Before this, I received my MD degree and completed my residency training in Internal Medicine.
 
 I am passionate about developing large language models for healthcare applications, with a focus on addressing real-world clinical challenges that have measurable impact. My particular interests include clinical note generation and reinforcement learning. Additionally, I am actively exploring startup opportunities to translate these research advancements into practical healthcare solutions.
 
@@ -78,10 +78,10 @@ I am passionate about developing large language models for healthcare applicatio
 ### Clinical Experience
 
 - **Mayo Clinic Health System**, Mankato, MN, USA  
-  Co-Director - AI Validation and Stewardship Program (2024 - Present)  
-  Associate Chief Medical Information Officer (2023 - Present)  
+  Co-Director - AI Validation and Stewardship Program (2024 - 2026)  
+  Associate Chief Medical Information Officer (2023 - 2026)  
   Chair - Department of Hospital Internal Medicine (2021 - 2024)  
-  Hospitalist Physician (2018 - Present)
+  Hospitalist Physician (2018 - 2026)
 
 - **Tufts Medical Center**, Boston, MA, USA  
   Resident Physician, Internal Medicine  
